@@ -3,7 +3,7 @@ import yayJpg from '../assets/yay.jpg';
 export default function HomePage() {
   return (
     <div>
-      <h2>我是测试环境</h2>
+      <h2>我是正式环境</h2>
 
       <h2>Yay! Welcome to umi!</h2>
 
